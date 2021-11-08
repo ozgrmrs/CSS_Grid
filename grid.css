@@ -20,8 +20,8 @@
     background-color: lime;
     grid-column: 1/3;
     grid-row: 2/4;
-    background-size: cover;
-    
+    /* background-image: background-image: url("https://picsum.photos/id/377/600/400"); */
+      
 }
 #content2{
     display: grid;
@@ -29,7 +29,8 @@
     grid-template-rows: 100px;
     border: 1px solid red;
     background-color: magenta;
-    background-image: url(./img/AtaTürk-Askeri-2.png)
+    /* background-image: url(./img/AtaTürk-Askeri-2.png) */
+    
 }#content3{
     display: grid;
     grid-template-columns: 100px 200px 100px;
